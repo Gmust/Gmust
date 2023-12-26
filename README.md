@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [my github](my github)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **illiadolbnia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
