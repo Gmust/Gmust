@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next JS, Nest JS**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **illiadolbnia@gmail.com**
 
