@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Illia</h1>
 <h3 align="center">I am frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Next JS, Nest JS**
+- 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 All of my projects are available here
 
