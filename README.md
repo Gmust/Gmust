@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Illia</h1>
 <h3 align="center">I am frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Astro**
-
-- 👨‍💻 All of my projects are available here
-
 - 📫 How to reach me **illiadolbnia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
