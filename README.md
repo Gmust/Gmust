@@ -1,19 +1,101 @@
-<h1 align="center">Hi 👋, I'm Illia</h1>
-<h3 align="center">I am frontend developer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Illia Dolbnia</h1>
+<h3 align="center">Frontend & Cross-Platform Mobile Engineer based in Poznań, Poland</h3>
 
-- 📫 How to reach me **illiadolbnia@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/illia-dolbnia-b238ab246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/illia-dolbnia-b238ab246/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:illiadolbnia@gmail.com">illiadolbnia@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/illia-dolbnia/" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/Gmust" target="_blank">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmust&show_icons=true&locale=en&layout=compact" alt="gmust" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmust&show_icons=true&locale=en" alt="gmust" /></p>
+I am a **Frontend & Cross-Platform Mobile Engineer** with **2+ years of experience** building production-ready web and mobile applications using **React, React Native, Expo, and TypeScript**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmust&" alt="gmust" /></p>
+I have shipped a large-scale fitness platform with web and mobile clients, real-time AI pose detection, 3D visualization, Telegram integration, and blockchain payments. I also work as a lead mobile developer on a government tax application for Ukraine, building secure document, QR code, PDF, and digital-signature flows from scratch.
 
+---
+
+### What I do
+
+* Build scalable frontend applications with **React 19, TypeScript, Vite, TanStack Router, and TanStack Query**
+* Develop cross-platform mobile apps with **React Native, Expo, Expo Router, and Reanimated**
+* Implement AI-powered camera features with **MediaPipe Vision** and **Three.js**
+* Integrate blockchain payment flows using **TON** and **NEAR**
+* Work with secure mobile flows: **QR parsing, PDF generation/viewing, digital signatures, and native modules**
+* Make architecture decisions, define project structure, review code, and mentor junior developers
+
+---
+
+### Current work
+
+**Frontend Engineer — HAPI Protocol**
+`08/2024 – Present · Remote`
+
+* Built **Fitton**, a large-scale fitness web app using React 19, TypeScript, TanStack Router & Query, and Vite
+* Delivered 50+ screens for a platform reaching **30,000–40,000 peak concurrent users**
+* Developed Telegram Mini App and bot integration
+* Built real-time pose detection using MediaPipe Vision and Three.js
+* Implemented recognition logic for **40+ fitness exercises**
+* Developed a cross-platform Expo / React Native mobile app with camera, 3D visualization, animations, and shared logic
+* Integrated **TON** and **NEAR** blockchain payment flows
+
+**Mobile Developer — State Tax Service of Ukraine**
+`11/2025 – Present · Remote`
+
+* Lead developer on a React Native government tax application
+* Defined architecture, project structure, and technical direction from scratch
+* Built document handling, QR code parsing, PDF generation/viewing, and secure data flows
+* Integrated a custom native module for Ukrainian state digital signatures
+* Mentored an intern developer and led code reviews
+
+---
+
+### Key achievements
+
+* **Real-time AI pose detection** — Built in-browser and mobile AI workout tracking using device camera, MediaPipe, and Three.js
+* **40+ exercise recognition rules** — Designed movement validation logic using body landmark detection
+* **Blockchain payments** — Integrated live TON and NEAR payment flows into a production fitness app
+* **Government app from scratch** — Built a React Native tax application for the State Tax Service of Ukraine
+* **Product delivery at scale** — Shipped a 50+ screen web + mobile fitness platform with 30,000–40,000 peak concurrent users
+
+---
+
+### Tech stack
+
+| Area       | Technologies                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------- |
+| Languages  | TypeScript, JavaScript                                                                                        |
+| Frontend   | React 19, Next.js, TanStack Query, TanStack Router, Redux, React Hook Form, Zod, Tailwind CSS, Vite, Three.js |
+| Mobile     | React Native, Expo, Expo Router, Expo Custom Native Modules, Reanimated                                       |
+| Backend    | Node.js, NestJS, Prisma, PostgreSQL                                                                           |
+| Blockchain | TON, NEAR                                                                                                     |
+| Tools      | Git, Figma, MediaPipe Vision, QR Code Parsing, PDF Generation, Digital Signatures                             |
+
+---
+
+### Languages
+
+* Ukrainian — Native
+* English — B2
+* Polish — A2
+
+---
+
+### GitHub stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gmust&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+<br clear="left"/>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gmust&show_icons=true&locale=en" alt="GitHub stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gmust&" alt="GitHub streak" />
+</p>
+::: ​​
